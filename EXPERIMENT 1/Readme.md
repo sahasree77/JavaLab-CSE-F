@@ -62,3 +62,7 @@ System.out.println("Root2"+real+"-i"+imaginary);
 ```
 # OUTPUT
 ![output of quadratic roots](exp1b.png)
+
+
+# OUTPUT
+![output of quadratic roots](exp1b.png)
